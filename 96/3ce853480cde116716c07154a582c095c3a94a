@@ -1,0 +1,21 @@
+lib/src/widgets/toolbar_widget.dart
+  s_68d63d666d5c20::t_52f46c589820d4 1933,1972,1978,1982,2054-2055,2059,2064,2099,2131,2137,2141,2205-2206,2210,2215,2249,2281,2287,2291,2355-2356,2360,2365,2399,2431,2437,2441,2505,2507
+pubspec.yaml
+  s_68d63d666d5c20::t_47c310c8d16829 24
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "963ce853480cde116716c07154a582c095c3a94a",
+  "prompts": {},
+  "sessions": {
+    "s_68d63d666d5c20": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "7800b25f-4799-47fb-b2ba-866b6e464f8c",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Ljuben Vassilev <ljubenvassilev@propertyme.com>"
+    }
+  }
+}
