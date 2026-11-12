@@ -1,0 +1,81 @@
+README.md
+  s_a95493f7c7afb7::t_b309c8f9532210 851
+  s_a95493f7c7afb7::t_f814697aefa04b 116-118
+test/legacy_material_bridge_test.dart
+  s_a95493f7c7afb7::t_11f22fa7aab4c7 1-54
+lib/src/widgets/toolbar_widget.dart
+  s_a95493f7c7afb7::t_6c9685d8380707 1118-1119
+  s_a95493f7c7afb7::t_bd1055498d187c 6
+  s_a95493f7c7afb7::t_3ed0c7cdaab52a 2543-2548,2564
+  s_a95493f7c7afb7::t_1e06da78ae0972 1146
+  s_a95493f7c7afb7::t_4d619f314f78bd 9
+example/ios/.gitignore
+  h_599cfd884ca1b9 1,22
+lib/utils/options.dart
+  s_a95493f7c7afb7::t_bd1055498d187c 5
+example/lib/main.dart
+  s_a95493f7c7afb7::t_bd1055498d187c 2
+  h_599cfd884ca1b9 99
+lib/src/html_editor_mobile.dart
+  s_a95493f7c7afb7::t_bd1055498d187c 6
+lib/src/html_editor_web.dart
+  s_a95493f7c7afb7::t_bd1055498d187c 4
+lib/utils/toolbar.dart
+  s_a95493f7c7afb7::t_bd1055498d187c 1
+.gitignore
+  h_599cfd884ca1b9 10-11
+  h_599cfd884ca1b9 9
+CHANGELOG.md
+  s_a95493f7c7afb7::t_90a74cf4ec3bc1 1-6
+lib/utils/utils.dart
+  s_a95493f7c7afb7::t_bd1055498d187c 5
+lib/src/widgets/legacy_material_bridge.dart
+  s_a95493f7c7afb7::t_35fa50a188239e 1-32
+lib/src/widgets/html_editor_widget_web.dart
+  s_a95493f7c7afb7::t_bd1055498d187c 5
+lib/src/html_editor_unsupported.dart
+  s_a95493f7c7afb7::t_bd1055498d187c 1
+lib/src/widgets/html_editor_widget_mobile.dart
+  s_a95493f7c7afb7::t_bd1055498d187c 7
+example/pubspec.yaml
+  s_a95493f7c7afb7::t_d3f26214bf96f1 9-10,15
+pubspec.yaml
+  s_a95493f7c7afb7::t_de728d05c20183 4,8-9,14-15
+example/ios/Podfile
+  h_599cfd884ca1b9 2
+example/ios/Podfile.lock
+  h_599cfd884ca1b9 3,5-7,9,12-14,18,20,29-30,33-34,37-41,43,45
+example/ios/Runner.xcodeproj/project.pbxproj
+  h_599cfd884ca1b9 6,17,51,59,89,136-138,164-166,169,213,218,251,356,430,479,550-561
+example/ios/Runner.xcodeproj/xcshareddata/xcschemes/Runner.xcscheme
+  h_599cfd884ca1b9 3,8-25,47,67,73
+example/ios/Runner/AppDelegate.swift
+  h_599cfd884ca1b9 2,4-5,12-15
+example/ios/Runner/Info.plist
+  h_599cfd884ca1b9 5-6,27-49
+example/pubspec.lock
+  h_599cfd884ca1b9 4-19,40,43,64,67,76-91,104,107-115,120,123-155,289,291-293,310,319-326,331,334,339,342,347,350,355,358,363,366-374,379,382,399-406,496,499,504,507,536-552,555,557-558
+pubspec.lock
+  h_599cfd884ca1b9 4-19,40,43,64-80,83,96,99-107,112-128,131-147,281,283-285,304-311,316,319,324,327,332,335,348,351,356-364,367,372,375,392-399,489,492,497,500,529-545,548,550-551
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "d0e838436ae29f7ae4f794741abb77a43da90a38",
+  "prompts": {},
+  "humans": {
+    "h_599cfd884ca1b9": {
+      "author": "Kon Gaspar <52645081+KonAtPropertyMe@users.noreply.github.com>"
+    }
+  },
+  "sessions": {
+    "s_a95493f7c7afb7": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "cd04a42c-f39f-4d6d-9c06-def7030489c9",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": null
+    }
+  }
+}
